@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Multivariate Statistical Analysis "
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/2026-spring-multivariate
+venue: "Southern University of Science and Technology, Department of Statistics and Data Science"
+date: 2026-02-01
+location: "Shenzhen, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course provides an introduction to the statistical analysis of multivariate data. It covers the theoretical foundations and applications of multivariate techniques.
 
 Heading 1
 ======

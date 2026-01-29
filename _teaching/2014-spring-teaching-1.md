@@ -1,15 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Statistical Linear Models"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2025-spring-linear
+venue: "Southern University of Science and Technology, Department of Statistics and Data Science"
+date: 2025-09-01
+location: "Shenzhen, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
+This course provides an introduction to the linear regression model.
 Heading 1
 ======
 
