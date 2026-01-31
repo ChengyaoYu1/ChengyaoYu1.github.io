@@ -23,24 +23,29 @@
       {% endif %}
     </h3>
     
-    <p class="archive__item-excerpt" itemprop="description" style="margin-bottom: 0px; font-size: 0.9em;">
-        {{ post.citation }}
+    {% if post.collection == 'teaching' %}
+      <p class="archive__item-excerpt" style="margin-bottom: 0px; font-size: 0.9em;">
+        {% if post.type %} {{ post.type }}, {% endif %}
         
-        {% if post.date %}, {{ post.date | date: "%Y" }}. {% endif %}
-
-        {% if post.paperurl %}
-          <a href="{{ post.paperurl }}" style="text-decoration: underline;">[PDF]</a>
-        {% endif %}
-        {% if post.code %}
-          <a href="{{ post.code }}" style="text-decoration: underline;">[Code]</a>
-        {% endif %}
-    </p>
-
-    {% if post.venue %}
-      <p class="archive__item-excerpt" style="margin-top: 0px; font-style: italic; color: #666; font-size: 0.9em;">
-        {{ post.venue }}
+        <i>{{ post.venue }}</i>
+        
+        {% if post.date %}, {{ post.date | date: "%Y" }} {% endif %}
       </p>
-    {% endif %}
 
-  </article>
+    {% else %}
+      <p class="archive__item-excerpt" itemprop="description" style="margin-bottom: 0px; font-size: 0.9em;">
+          {{ post.citation }}
+          {% if post.date %}, {{ post.date | date: "%Y" }}. {% endif %}
+          {% if post.paperurl %} <a href="{{ post.paperurl }}" style="text-decoration: underline;">[PDF]</a> {% endif %}
+          {% if post.code %} <a href="{{ post.code }}" style="text-decoration: underline;">[Code]</a> {% endif %}
+      </p>
+      
+      {% if post.venue %}
+        <p class="archive__item-excerpt" style="margin-top: 0px; font-style: italic; color: #666; font-size: 0.9em;">
+          {{ post.venue }}
+        </p>
+      {% endif %}
+      
+    {% endif %}
+    </article>
 </div>
