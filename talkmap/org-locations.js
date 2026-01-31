@@ -1,7 +1,7 @@
 var addressPoints = [
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "A gentle introductionn to Conformal inference<br />Zhejiang Gongshang University; Hangzhou, China",
+    30.2489634,
+    120.2052342
   ]
 ];
