@@ -18,13 +18,10 @@ I am fortunate to be advised by Professor **[Bingyi Jing](https://sai.cuhk.edu.c
 My research focuses on the intersection of statistical theory and machine learning applications in finance. I study the statistical foundations for reliable decision-making in high-stakes domains, around connected themes:
 
 * **Reliable Artificial Intelligence**
-  Designing procedures to evaluate when model predictions should be trusted, specifically for credit scoring systems. I am interested in applying **Conformal Prediction** to quantify uncertainty in financial risk models.
 
 * **Multiple Hypotheses Testing**
-  Studying how models perform when the population changes over time (e.g., PSI monitoring). Topics include handling **distribution shifts** in user behavior and ensuring model stability across different time periods.
 
 * **Distribution Approximation Theory**
-  My work covers statistical learning theory, high-dimensional statistics, and optimization. Much of my current work is motivated by real-world challenges in **Credit Risk Modeling**, aiming to provide rigorous statistical guarantees for business applications.
 
 
 # News
