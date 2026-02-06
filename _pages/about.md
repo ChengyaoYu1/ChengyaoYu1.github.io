@@ -10,12 +10,12 @@ redirect_from:
 Hi! I'm Chengyao Yu.
 I am currently a first-year Master’s student in the Department of Statistics and Data Science at the **Southern University of Science and Technology (SUSTech)**.
 
-I am fortunate to be advised by Professor **[Bingyi Jing](https://sai.cuhk.edu.cn/en/teacher/162)**. My research interests lie broadly in both theoretical and applied statistics, and their applications in Artificial Intelligence. I look forward to actively engaging with the broader research community and collaborating on meaningful projects.
+I am fortunate to be advised by Professor **[Bingyi Jing](https://sai.cuhk.edu.cn/en/teacher/162)**. My research interests lie broadly in both theoretical and applied statistics, and their applications in Artificial Intelligence. I look forward to actively engaging with the broader research community.
 
 
 # Research interests
 
-My research focuses on the intersection of statistical theory and machine learning applications in finance. I study the statistical foundations for reliable decision-making in high-stakes domains, around connected themes:
+My research focuses on the intersection of statistical theory and its applications to Reliable Artificial Intelligence.
 
 * **Reliable Artificial Intelligence**
 
