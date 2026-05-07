@@ -1,5 +1,5 @@
 ---
-title: "Space Adaptive Calibration"
+title: "Residual Calibration via Local Feature-Space Refinement"
 collection: publications
 permalink: /publication/2026-04-30-calibration
 date: 2026-04-30
