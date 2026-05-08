@@ -42,3 +42,4 @@ My research focuses on the intersection of statistical theory and its applicatio
 For more info
 ------
 
+I am currently actively seeking an opportunity to pursue a doctoral degree. Any useful information will be appreciated!
