@@ -26,7 +26,7 @@ My research focuses on the intersection of statistical theory and its applicatio
 
 # News
 
-* **2026.5**: My paper entitled "Anytime Safe PAC Efficient Reasoning" has been accepted by **International Conference on Machine Learning (ICML) 2026**! This article is also discussed in **ES-Reasoning @ ICLR 2026** (not conflicting with ICML).
+* **2026.5**: My paper entitled "Anytime Safe PAC Efficient Reasoning" has been accepted by **International Conference on Machine Learning (ICML) 2026**, which has also been discussed in **ES-Reasoning @ ICLR 2026**.
   
 * **2025.10**: My paper entitled "Random Weighting Approximation of M-estimators with Increasing Dimensions of Parameter" has been accepted by **Statistica Sinica**. (Advised by Prof. [Zhanfeng Wang](https://bs.ustc.edu.cn/english/profile-106.html) and Prof. [Ruixing Ming](https://www.researchgate.net/profile/Ruixing-Ming))
 
