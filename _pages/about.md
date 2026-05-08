@@ -26,9 +26,9 @@ My research focuses on the intersection of statistical theory and its applicatio
 
 # News
 
-* **2026.5**: My paper "Anytime Safe PAC Efficient Reasoning" has been accepted by **ICML 2026**! This article is also discussed in **ES-Reasoning @ ICLR 2026** (not conflicting with ICML).
+* **2026.5**: My paper entitled "Anytime Safe PAC Efficient Reasoning" has been accepted by **International Conference on Machine Learning (ICML) 2026**! This article is also discussed in **ES-Reasoning @ ICLR 2026** (not conflicting with ICML).
   
-* **2025.10**: My paper "Random Weighting Approximation of M-estimators with Increasing Dimensions of Parameter" has been accepted by **Statistica Sinica**. (Advised by Prof. [Zhanfeng Wang](https://bs.ustc.edu.cn/english/profile-106.html) and Prof. [Ruixing Ming](https://www.researchgate.net/profile/Ruixing-Ming))
+* **2025.10**: My paper entitled "Random Weighting Approximation of M-estimators with Increasing Dimensions of Parameter" has been accepted by **Statistica Sinica**. (Advised by Prof. [Zhanfeng Wang](https://bs.ustc.edu.cn/english/profile-106.html) and Prof. [Ruixing Ming](https://www.researchgate.net/profile/Ruixing-Ming))
 
 
 # Education
@@ -41,4 +41,4 @@ My research focuses on the intersection of statistical theory and its applicatio
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
