@@ -13,7 +13,7 @@ I am currently a first-year Master’s student in the Department of Statistics a
 I am fortunate to be advised by Professor **[Bingyi Jing](https://sai.cuhk.edu.cn/en/teacher/162)**. My research interests lie broadly in both theoretical and applied statistics, and their applications in Artificial Intelligence. I look forward to actively engaging with the broader research community.
 
 
-# Research interests
+# Research Interests
 
 My research focuses on the intersection of statistical theory and its applications to Reliable Artificial Intelligence.
 
@@ -39,7 +39,7 @@ My research focuses on the intersection of statistical theory and its applicatio
 * **B.S. in Applied Statistics** (2021.9 – 2025.6)
   <br>Zhejiang Gongshang University (Rank: 1/256)
 
-For more info
+Pursuing a Doctoral Degree
 ------
 
 I am currently actively seeking an opportunity to pursue a doctoral degree. Any useful information will be appreciated!
