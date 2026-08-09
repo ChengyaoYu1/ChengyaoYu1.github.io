@@ -1,45 +1,56 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
+seo_title: "Chengyao Yu | Statistics and Reliable AI"
+description: "Chengyao Yu is an M.S. student at SUSTech researching reliable artificial intelligence, multiple hypothesis testing, and distribution approximation."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I'm Chengyao Yu.
-I am currently a first-year Master’s student in the Department of Statistics and Data Science at the **Southern University of Science and Technology (SUSTech)**.
+<p class="home-intro">I am an M.S. student in the Department of Statistics and Data Science at the <strong>Southern University of Science and Technology (SUSTech)</strong>.</p>
 
-I am fortunate to be advised by Professor **[Bingyi Jing](https://sai.cuhk.edu.cn/en/teacher/162)**. My research interests lie broadly in both theoretical and applied statistics, and their applications in Artificial Intelligence. I look forward to actively engaging with the broader research community.
+I am fortunate to be advised by Professor **[Bingyi Jing](https://sai.cuhk.edu.cn/en/teacher/162)**. My research lies at the intersection of statistical theory and reliable artificial intelligence.
 
+<div class="profile-actions" aria-label="Profile links">
+  <a class="btn btn--primary" href="/publications/">Publications</a>
+  <a class="btn" href="https://scholar.google.com/citations?user=nl83_tUAAAAJ&hl=en" rel="noopener noreferrer">Google Scholar</a>
+  <a class="btn" href="https://orcid.org/0009-0008-7259-9100" rel="noopener noreferrer">ORCID</a>
+  <a class="btn" href="mailto:12532239@mail.sustech.edu.cn">Email</a>
+</div>
 
 # Research Interests
 
-My research focuses on the intersection of statistical theory and its applications to Reliable Artificial Intelligence.
-
 * **Reliable Artificial Intelligence**
+* **Multiple Hypothesis Testing**
+* **Distribution Approximation**
 
-* **Multiple Hypotheses Testing**
+# Selected Publications
 
-* **Distribution Approximation Theory**
+<div class="selected-publications">
+{% assign selected_publications = site.publications | where: "selected", true | sort: "date" | reverse %}
+{% for post in selected_publications %}
+  {% include archive-single.html %}
+{% endfor %}
+</div>
 
 
 # News
 
-* **2026.5**: My paper entitled "Anytime Safe PAC Efficient Reasoning" has been accepted by **International Conference on Machine Learning (ICML) 2026**, which has also been discussed in **ES-Reasoning @ ICLR 2026**.
+* **May 2026:** [Anytime Safe PAC Efficient Reasoning](/publication/2026-01-31-anytime-safe-pac) was accepted at **ICML 2026** and discussed at **ES-Reasoning @ ICLR 2026**.
   
-* **2025.10**: My paper entitled "Random Weighting Approximation of M-estimators with Increasing Dimensions of Parameter" has been accepted by **Statistica Sinica**. (Advised by Prof. [Zhanfeng Wang](https://bs.ustc.edu.cn/english/profile-106.html) and Prof. [Ruixing Ming](https://www.researchgate.net/profile/Ruixing-Ming))
+* **October 2025:** [Random Weighting Approximation of M-estimators with Increasing Dimensions of Parameter](/publication/2025-10-15-random-weighting) was accepted by **Statistica Sinica**.
 
 
 # Education
 
-* **M.S. in Mathematics** (2025.9 – Present)
+* **M.S. in Mathematics** (2025 – Present)
   <br>Southern University of Science and Technology
 
-* **B.S. in Applied Statistics** (2021.9 – 2025.6)
+* **B.S. in Applied Statistics** (2021 – 2025)
   <br>Zhejiang Gongshang University (Rank: 1/256)
 
-Pursuing a Doctoral Degree
-------
+# PhD Opportunities
 
-I am currently actively seeking an opportunity to pursue a doctoral degree. Any useful information will be appreciated!
+I am seeking PhD opportunities in statistics and reliable AI. Please feel free to [contact me](mailto:12532239@mail.sustech.edu.cn) if you are recruiting students in related areas.

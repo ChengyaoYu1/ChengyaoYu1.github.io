@@ -6,4 +6,5 @@ date: 2025-10-15
 venue: 'Statistica Sinica (Accepted)'
 paperurl: 'https://www3.stat.sinica.edu.tw/preprint/SS-2025-0132_Preprint.pdf' 
 citation: 'Ruixing Ming*, <b>Chengyao Yu*</b>, Min Xiao, Zhanfeng Wang†' 
+selected: true
 ---

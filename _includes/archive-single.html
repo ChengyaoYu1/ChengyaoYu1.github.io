@@ -16,10 +16,12 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
     <h3 class="archive__item-title" itemprop="headline" style="margin-bottom: 5px;">
-      {% if post.link %}
+      {% if post.collection == 'publications' and post.paperurl %}
+        <a href="{{ post.paperurl }}" rel="noopener noreferrer">{{ title }}</a>
+      {% elsif post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink" style="text-decoration: none; color: #000;">{{ title }}</a>
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink" style="text-decoration: none; color: var(--global-text-color);">{{ title }}</a>
       {% endif %}
     </h3>
     
@@ -41,7 +43,7 @@
       </p>
       
       {% if post.venue %}
-        <p class="archive__item-excerpt" style="margin-top: 0px; font-style: italic; color: #666; font-size: 0.9em;">
+        <p class="archive__item-excerpt publication-venue" style="margin-top: 0px; font-style: italic; font-size: 0.9em;">
           {{ post.venue }}
         </p>
       {% endif %}
