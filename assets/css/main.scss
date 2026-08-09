@@ -69,3 +69,45 @@
 .publication-venue {
   color: var(--global-text-color-light);
 }
+
+.section-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+}
+
+.section-heading__icon {
+  display: inline-flex;
+  flex: 0 0 2rem;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 0.55rem;
+  font-size: 0.85rem;
+}
+
+.section-heading--research .section-heading__icon {
+  color: #216f83;
+  background: #e4f2f6;
+}
+
+.section-heading--publications .section-heading__icon {
+  color: #68439a;
+  background: #f0eafb;
+}
+
+.section-heading--news .section-heading__icon {
+  color: #995b00;
+  background: #fff0d8;
+}
+
+.section-heading--education .section-heading__icon {
+  color: #35763a;
+  background: #e6f3e7;
+}
+
+.section-heading--phd .section-heading__icon {
+  color: #9c3d50;
+  background: #f9e8ec;
+}

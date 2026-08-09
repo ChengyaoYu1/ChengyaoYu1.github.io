@@ -20,13 +20,15 @@ I am fortunate to be advised by Professor **[Bingyi Jing](https://sai.cuhk.edu.c
   <a class="btn" href="mailto:12532239@mail.sustech.edu.cn">Email</a>
 </div>
 
-# Research Interests
+<h1 class="section-heading section-heading--research"><span class="section-heading__icon" aria-hidden="true"><i class="fa-solid fa-flask"></i></span>Research Interests</h1>
 
 * **Reliable Artificial Intelligence**
 * **Multiple Hypothesis Testing**
 * **Distribution Approximation**
 
-# Selected Publications
+<h1 class="section-heading section-heading--publications"><span class="section-heading__icon" aria-hidden="true"><i class="fa-solid fa-book-open"></i></span>Selected Publications</h1>
+
+<p class="publication-legend">(* equal contribution; † corresponding author; ‡ supervised student)</p>
 
 <div class="selected-publications">
 {% assign selected_publications = site.publications | where: "selected", true | sort: "date" | reverse %}
@@ -36,14 +38,14 @@ I am fortunate to be advised by Professor **[Bingyi Jing](https://sai.cuhk.edu.c
 </div>
 
 
-# News
+<h1 class="section-heading section-heading--news"><span class="section-heading__icon" aria-hidden="true"><i class="fa-solid fa-bullhorn"></i></span>News</h1>
 
 * **May 2026:** [Anytime Safe PAC Efficient Reasoning](/publication/2026-01-31-anytime-safe-pac) was accepted at **ICML 2026** and discussed at **ES-Reasoning @ ICLR 2026**.
   
 * **October 2025:** [Random Weighting Approximation of M-estimators with Increasing Dimensions of Parameter](/publication/2025-10-15-random-weighting) was accepted by **Statistica Sinica**.
 
 
-# Education
+<h1 class="section-heading section-heading--education"><span class="section-heading__icon" aria-hidden="true"><i class="fa-solid fa-graduation-cap"></i></span>Education</h1>
 
 * **M.S. in Mathematics** (2025 – Present)
   <br>Southern University of Science and Technology
@@ -51,6 +53,6 @@ I am fortunate to be advised by Professor **[Bingyi Jing](https://sai.cuhk.edu.c
 * **B.S. in Applied Statistics** (2021 – 2025)
   <br>Zhejiang Gongshang University (Rank: 1/256)
 
-# PhD Opportunities
+<h1 class="section-heading section-heading--phd"><span class="section-heading__icon" aria-hidden="true"><i class="fa-solid fa-compass"></i></span>PhD Opportunities</h1>
 
 I am seeking PhD opportunities in statistics and reliable AI. Please feel free to [contact me](mailto:12532239@mail.sustech.edu.cn) if you are recruiting students in related areas.
