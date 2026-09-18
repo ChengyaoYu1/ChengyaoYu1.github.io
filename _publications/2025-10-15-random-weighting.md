@@ -3,7 +3,7 @@ title: "Random Weighting Approximation of M-estimators with Increasing Dimension
 collection: publications
 permalink: /publication/2025-10-15-random-weighting
 date: 2025-10-15
-venue: 'Statistica Sinica (Accepted)'
+venue: 'Statistica Sinica'
 paperurl: 'https://www3.stat.sinica.edu.tw/preprint/SS-2025-0132_Preprint.pdf' 
 citation: 'Ruixing Ming*, <b>Chengyao Yu*</b>, Min Xiao, Zhanfeng Wang†' 
 selected: true
