@@ -40,11 +40,11 @@ I am fortunate to be advised by Professor **[Bingyi Jing](https://sai.cuhk.edu.c
 
 <h1 class="section-heading section-heading--news"><span class="section-heading__icon" aria-hidden="true"><i class="fa-solid fa-bullhorn"></i></span>News</h1>
 
-* **Sep 2026:** [Residual Calibration via Local Feature-Space Refinement](/publication/2026-05-22-calibration) was accepted at **NeurIPS 2026**.
+* **Sep 2026:** [Residual Calibration via Local Feature-Space Refinement](/publication/2026-05-22-calibration) has been accepted at **NeurIPS 2026**.
   
-* **May 2026:** [Anytime Safe PAC Efficient Reasoning](/publication/2026-01-31-anytime-safe-pac) was accepted at **ICML 2026** and discussed at **ES-Reasoning @ ICLR 2026**.
+* **May 2026:** [Anytime Safe PAC Efficient Reasoning](/publication/2026-01-31-anytime-safe-pac) has been accepted at **ICML 2026** and discussed at **ES-Reasoning @ ICLR 2026**.
   
-* **October 2025:** [Random Weighting Approximation of M-estimators with Increasing Dimensions of Parameter](/publication/2025-10-15-random-weighting) was accepted by **Statistica Sinica**.
+* **October 2025:** [Random Weighting Approximation of M-estimators with Increasing Dimensions of Parameter](/publication/2025-10-15-random-weighting) has been accepted by **Statistica Sinica**.
 
 
 <h1 class="section-heading section-heading--education"><span class="section-heading__icon" aria-hidden="true"><i class="fa-solid fa-graduation-cap"></i></span>Education</h1>
