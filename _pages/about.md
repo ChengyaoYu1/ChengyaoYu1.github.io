@@ -40,7 +40,7 @@ I am fortunate to be advised by Professor **[Bingyi Jing](https://sai.cuhk.edu.c
 
 <h1 class="section-heading section-heading--news"><span class="section-heading__icon" aria-hidden="true"><i class="fa-solid fa-bullhorn"></i></span>News</h1>
 
-* **Sep 2026:** I'm very glad that I received both the **National Scholarship** and the **BYD Scholarship**.
+* **Sep 2026:** I'm very glad that I was selected for both the **National Scholarship** and the **BYD Scholarship**.
 
 * **Sep 2026:** [Residual Calibration via Local Feature-Space Refinement](/publication/2026-05-22-calibration) has been accepted at **NeurIPS 2026**.
   
