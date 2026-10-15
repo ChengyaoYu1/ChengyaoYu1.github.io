@@ -56,7 +56,3 @@ I am fortunate to be advised by Professor **[Bingyi Jing](https://sai.cuhk.edu.c
 
 * **B.S. in Applied Statistics** (2021 – 2025)
   <br>Zhejiang Gongshang University (Rank: 1/256)
-
-<h1 class="section-heading section-heading--phd"><span class="section-heading__icon" aria-hidden="true"><i class="fa-solid fa-compass"></i></span>PhD Opportunities</h1>
-
-I am seeking PhD opportunities in statistics and reliable AI. Please feel free to [contact me](mailto:12532239@mail.sustech.edu.cn) if you are recruiting students in related areas.
