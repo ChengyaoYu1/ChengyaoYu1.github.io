@@ -152,3 +152,17 @@
   color: #416eba;
   background: linear-gradient(135deg, #eff5ff, #d8e6ff);
 }
+
+/* Publication authors */
+.selected-publications .archive__item-excerpt:not(.publication-venue),
+.archive .archive__item-excerpt:not(.publication-venue) {
+  color: #29313B;
+}
+
+/* Publication venues and review status */
+.selected-publications .publication-venue,
+.archive .publication-venue {
+  color: #365D85;
+  font-weight: 600;
+  font-style: italic;
+}
