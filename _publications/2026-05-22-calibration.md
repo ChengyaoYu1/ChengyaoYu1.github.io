@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2026-05-22-calibration
 date: 2026-05-22
 venue: ' Neural Information Processing Systems (NeurIPS), 2026'
+paperurl: 'https://arxiv.org/pdf/2610.30652' 
 citation: 'Xihao Wang*‡,  <b>Chengyao Yu*†</b>, Ruixing Ming†' 
 selected: true
 ---
