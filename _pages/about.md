@@ -20,13 +20,13 @@ I am fortunate to be advised by Professor **[Bingyi Jing](https://sai.cuhk.edu.c
   <a class="btn" href="mailto:12532239@mail.sustech.edu.cn">Email</a>
 </div>
 
-<h1 class="section-heading section-heading--research"><span class="section-heading__icon" aria-hidden="true"><i class="fa-solid fa-flask"></i></span>Research Interests</h1>
+<h1 class="section-heading section-heading--research"><span class="section-heading__icon"><i class="fa-solid fa-atom"></i></span>Research Interests</h1>
 
 * **Reliable Artificial Intelligence**
 * **Multiple Hypothesis Testing**
 * **Distribution Approximation**
 
-<h1 class="section-heading section-heading--news"><span class="section-heading__icon" aria-hidden="true"><i class="fa-solid fa-bullhorn"></i></span>News</h1>
+<h1 class="section-heading section-heading--news"><span class="section-heading__icon"><i class="fa-solid fa-bolt"></i></span>News</h1>
 
 * **Sep 2026:** I have been selected for both the **National Scholarship** and the **BYD Scholarship**.
 
@@ -37,7 +37,7 @@ I am fortunate to be advised by Professor **[Bingyi Jing](https://sai.cuhk.edu.c
 * **October 2025:** [Random Weighting Approximation of M-estimators with Increasing Dimensions of Parameter](/publication/2025-10-15-random-weighting) has been accepted by **Statistica Sinica**.
 
 
-<h1 class="section-heading section-heading--publications"><span class="section-heading__icon" aria-hidden="true"><i class="fa-solid fa-book-open"></i></span>Selected Publications</h1>
+<h1 class="section-heading section-heading--publications"><span class="section-heading__icon"><i class="fa-solid fa-book-bookmark"></i></span>Selected Publications</h1>
 
 <p class="publication-legend">(* equal contribution; † corresponding author; ‡ supervised student)</p>
 
@@ -48,13 +48,13 @@ I am fortunate to be advised by Professor **[Bingyi Jing](https://sai.cuhk.edu.c
 {% endfor %}
 </div>
 
-<h1 class="section-heading section-heading--services"><span class="section-heading__icon" aria-hidden="true"><i class="fa-solid fa-clipboard-check"></i></span>Academic Services</h1>
+<h1 class="section-heading section-heading--services"><span class="section-heading__icon"><i class="fa-solid fa-pen-nib"></i></span>Academic Services</h1>
 
 * **Conference Reviewer:**
   * [International Conference on Learning Representations (ICLR)](https://iclr.cc/)
   * [Association for the Advancement of Artificial Intelligence (AAAI)](https://aaai.org/)
 
-<h1 class="section-heading section-heading--education"><span class="section-heading__icon" aria-hidden="true"><i class="fa-solid fa-graduation-cap"></i></span>Education</h1>
+<h1 class="section-heading section-heading--education"><span class="section-heading__icon"><i class="fa-solid fa-building-columns"></i></span>Education</h1>
 
 * **M.S. in Mathematics** (2025 – Present)
   <br>Southern University of Science and Technology
