@@ -48,6 +48,11 @@ I am fortunate to be advised by Professor **[Bingyi Jing](https://sai.cuhk.edu.c
 {% endfor %}
 </div>
 
+<h1 class="section-heading section-heading--services"><span class="section-heading__icon" aria-hidden="true"><i class="fa-solid fa-clipboard-check"></i></span>Academic Services</h1>
+
+* **Conference Reviewer:**
+  * [International Conference on Learning Representations (ICLR)](https://iclr.cc/)
+  * [Association for the Advancement of Artificial Intelligence (AAAI)](https://aaai.org/)
 
 <h1 class="section-heading section-heading--education"><span class="section-heading__icon" aria-hidden="true"><i class="fa-solid fa-graduation-cap"></i></span>Education</h1>
 
