@@ -116,3 +116,39 @@
   color: #356599;
   background: #e9f1fb;
 }
+
+/* Refined academic section icons */
+
+.section-heading__icon {
+  flex: 0 0 2.4rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: 0.75rem;
+  font-size: 1.1rem;
+  box-shadow: 0 3px 8px rgba(30, 40, 70, 0.08);
+}
+
+.section-heading--research .section-heading__icon {
+  color: #21849a;
+  background: linear-gradient(135deg, #eaf9fc, #d2edf3);
+}
+
+.section-heading--news .section-heading__icon {
+  color: #c17b12;
+  background: linear-gradient(135deg, #fff6e5, #ffe5b5);
+}
+
+.section-heading--publications .section-heading__icon {
+  color: #8053af;
+  background: linear-gradient(135deg, #f4edff, #e5d6f8);
+}
+
+.section-heading--education .section-heading__icon {
+  color: #36845a;
+  background: linear-gradient(135deg, #eaf8ef, #d1edda);
+}
+
+.section-heading--services .section-heading__icon {
+  color: #416eba;
+  background: linear-gradient(135deg, #eff5ff, #d8e6ff);
+}
