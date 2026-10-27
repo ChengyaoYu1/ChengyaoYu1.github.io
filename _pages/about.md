@@ -11,7 +11,7 @@ redirect_from:
 
 <p class="home-intro">I am an M.S. student in the Department of Statistics and Data Science at the <strong>Southern University of Science and Technology (SUSTech)</strong>.</p> I am very fortunate to be advised by Professor **[Bingyi Jing](https://sai.cuhk.edu.cn/en/teacher/162)**. During my undergraduate studies, I had the privilege of receiving guidance from Professors **[Zhanfeng Wang](https://bs.ustc.edu.cn/chinese/profile-106.html)** and **[Ruixing Ming](https://mypage.zjgsu.edu.cn/tjysjkx/mrx/main.htm)**, and also benefited from the assistance of Professor **[Dongsheng Tu](https://phs.queensu.ca/faculty-research/dongsheng-tu)** and others.
 
-My current research lies at the intersection of statistical theory and trustworthy artificial intelligence. Recently, I have also been exploring other areas related to embodied intelligence, fields that I find truly fascinating. 
+My current research lies at the intersection of statistical theory and artificial intelligence. Recently, I have also been exploring other areas related to embodied intelligence, fields that I find truly fascinating. 
 
 <div class="profile-actions" aria-label="Profile links">
   <a class="btn btn--primary" href="/publications/">Publications</a>
