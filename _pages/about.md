@@ -50,6 +50,9 @@ I am fortunate to be advised by Professor **[Bingyi Jing](https://sai.cuhk.edu.c
 
 <h1 class="section-heading section-heading--services"><span class="section-heading__icon"><i class="fa-solid fa-pen-nib"></i></span>Academic Services</h1>
 
+* **Journal Reviewer:**
+  * [IEEE Transactions on Mobile Computing (TMC)](https://ieeexplore.ieee.org/xpl/issues?punumber=7755&isnumber=11676226)
+
 * **Conference Reviewer:**
   * [International Conference on Learning Representations (ICLR)](https://iclr.cc/)
   * [Association for the Advancement of Artificial Intelligence (AAAI)](https://aaai.org/)
