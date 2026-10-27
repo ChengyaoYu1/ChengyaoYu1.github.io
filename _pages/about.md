@@ -22,19 +22,20 @@ I am fortunate to be advised by Professor **[Bingyi Jing](https://sai.cuhk.edu.c
 
 <h1 class="section-heading section-heading--research"><span class="section-heading__icon"><i class="fa-solid fa-atom"></i></span>Research Interests</h1>
 
-* **Reliable Artificial Intelligence**
+* **Embodied AI**
+* **Trustworthy AI**
 * **Multiple Hypothesis Testing**
-* **Distribution Approximation**
+* **High-dimensional Asymptotic Theory**
 
 <h1 class="section-heading section-heading--news"><span class="section-heading__icon"><i class="fa-solid fa-bolt"></i></span>News</h1>
 
-* **Sep 2026:** I have been selected for both the **National Scholarship** and the **BYD Scholarship**.
+* **Sep 2026:** I have been selected for both the *National Scholarship* and the *BYD Scholarship*.
 
-* **Sep 2026:** [Residual Calibration via Local Feature-Space Refinement](/publication/2026-05-22-calibration) has been accepted at **NeurIPS 2026**.
+* **Sep 2026:** [Residual Calibration via Local Feature-Space Refinement](/publication/2026-05-22-calibration) was accepted at *NeurIPS 2026*.
   
-* **May 2026:** [Anytime Safe PAC Efficient Reasoning](/publication/2026-01-31-anytime-safe-pac) has been accepted at **ICML 2026** and discussed at **ES-Reasoning @ ICLR 2026**.
+* **May 2026:** [Anytime Safe PAC Efficient Reasoning](/publication/2026-01-31-anytime-safe-pac) was accepted at *ICML 2026* and discussed at *ES-Reasoning @ ICLR 2026*.
   
-* **October 2025:** [Random Weighting Approximation of M-estimators with Increasing Dimensions of Parameter](/publication/2025-10-15-random-weighting) has been accepted by **Statistica Sinica**.
+* **October 2025:** [Random Weighting Approximation of M-estimators with Increasing Dimensions of Parameter](/publication/2025-10-15-random-weighting) was accepted by *Statistica Sinica*.
 
 
 <h1 class="section-heading section-heading--publications"><span class="section-heading__icon"><i class="fa-solid fa-book-bookmark"></i></span>Selected Publications</h1>
