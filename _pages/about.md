@@ -9,7 +9,13 @@ redirect_from:
   - /about.html
 ---
 
-<p class="home-intro">I am an M.S. student in the Department of Statistics and Data Science at the <strong>Southern University of Science and Technology (SUSTech)</strong>.</p> I am very fortunate to be advised by Professor **[Bingyi Jing](https://sai.cuhk.edu.cn/en/teacher/162)**. During my undergraduate studies, I had the privilege of receiving guidance from Professors **[Zhanfeng Wang](https://bs.ustc.edu.cn/chinese/profile-106.html)** and **[Ruixing Ming](https://mypage.zjgsu.edu.cn/tjysjkx/mrx/main.htm)**, and also benefited from the assistance of Professor **[Dongsheng Tu](https://phs.queensu.ca/faculty-research/dongsheng-tu)** and others.
+<p class="home-intro">
+I am currently an M.S. student (September 2025–June 2027) in the Department of Statistics and Data Science at the <strong>Southern University of Science and Technology (SUSTech)</strong>, advised by Professor <a href="https://sai.cuhk.edu.cn/en/teacher/162"><strong>Bingyi Jing</strong></a>. In September 2027, I will begin my Ph.D. studies in the School of Artificial Intelligence at <strong>The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)</strong>, in collaboration with the <strong>Shenzhen Loop Area Institute (SLAI)</strong>, and I feel very fortunate to continue working with Professor <a href="https://sai.cuhk.edu.cn/en/teacher/162"><strong>Bingyi Jing</strong></a> as my Ph.D. advisor.
+</p>
+
+<p>
+During my undergraduate studies, I had the privilege of receiving guidance from Professors <a href="https://bs.ustc.edu.cn/chinese/profile-106.html"><strong>Zhanfeng Wang</strong></a>, <a href="https://mypage.zjgsu.edu.cn/tjysjkx/mrx/main.htm"><strong>Ruixing Ming</strong></a>, and <a href="https://sai.cuhk.edu.cn/en/teacher/162"><strong>Bingyi Jing</strong></a>. I also benefited from valuable advice and support from Professor <a href="https://phs.queensu.ca/faculty-research/dongsheng-tu"><strong>Dongsheng Tu</strong></a> and <a href="https://tjsj.zjgsu.edu.cn/2021/1222/c2634a105088/page.htm"><strong>Min Xiao</strong></a>, among others.
+</p>
 
 My current research lies at the intersection of statistical theory and artificial intelligence. Recently, I have also been exploring other areas related to embodied intelligence, fields that I find truly fascinating. 
 
