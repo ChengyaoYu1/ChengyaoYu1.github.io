@@ -35,8 +35,6 @@ My current research lies at the intersection of statistical theory and artificia
 
 <h1 class="section-heading section-heading--news"><span class="section-heading__icon"><i class="fa-solid fa-bolt"></i></span>News</h1>
 
-* **Sep 2026:** I have been selected for both the *National Scholarship* and the *BYD Scholarship*.
-
 * **Sep 2026:** [Residual Calibration via Local Feature-Space Refinement](/publication/2026-05-22-calibration) was accepted at *NeurIPS 2026*.
   
 * **May 2026:** [Anytime Safe PAC Efficient Reasoning](/publication/2026-01-31-anytime-safe-pac) was accepted at *ICML 2026* and discussed at *ES-Reasoning @ ICLR 2026*.
@@ -63,6 +61,20 @@ My current research lies at the intersection of statistical theory and artificia
 * **Conference Reviewer:**
   * [International Conference on Learning Representations (ICLR)](https://iclr.cc/)
   * [Association for the Advancement of Artificial Intelligence (AAAI)](https://aaai.org/)
+
+
+<h1 class="section-heading section-heading--awards">
+  <span class="section-heading__icon">
+    <i class="fa-solid fa-award"></i>
+  </span>Awards
+</h1>
+
+* **National Scholarship (for Master students)** — Ministry of Education (MOE), October 2026
+* **BYD Scholarship (for Master students)** — BYD, October 2026
+* **National Second Prize in BdRace** — CUMCM, June 2024
+* **National First Prize in CRA** — CSSC, May 2024
+* **First Prize in the National Undergraduate Mathematics Competition** — CMS, December 2023
+* **Third Prize in the National High School Mathematics Competition** — CMS, October 2020
 
 <h1 class="section-heading section-heading--education"><span class="section-heading__icon"><i class="fa-solid fa-building-columns"></i></span>Education</h1>
 
