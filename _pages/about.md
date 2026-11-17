@@ -14,7 +14,7 @@ I am currently an M.S. student (September 2025–June 2027) in the Department of
 </p>
 
 <p>
-During my undergraduate studies, I had the privilege of receiving guidance from Professors <a href="https://bs.ustc.edu.cn/chinese/profile-106.html"><strong>Zhanfeng Wang</strong></a>, <a href="https://mypage.zjgsu.edu.cn/tjysjkx/mrx/main.htm"><strong>Ruixing Ming</strong></a>, and <a href="https://sai.cuhk.edu.cn/en/teacher/162"><strong>Bingyi Jing</strong></a>. I also benefited from valuable advice and support from Professor <a href="https://phs.queensu.ca/faculty-research/dongsheng-tu"><strong>Dongsheng Tu</strong></a> and <a href="https://tjsj.zjgsu.edu.cn/2021/1222/c2634a105088/page.htm"><strong>Min Xiao</strong></a>, among others.
+During my undergraduate studies, I had the privilege of receiving guidance from Professors <a href="https://bs.ustc.edu.cn/chinese/profile-106.html"><strong>Zhanfeng Wang</strong></a>, <a href="https://mypage.zjgsu.edu.cn/tjysjkx/mrx/main.htm"><strong>Ruixing Ming</strong></a>, and <a href="https://sai.cuhk.edu.cn/en/teacher/162"><strong>Bingyi Jing</strong></a>. I also benefited from valuable advice and support from Professor <a href="https://phs.queensu.ca/faculty-research/dongsheng-tu"><strong>Dongsheng Tu</strong></a> and <a href="https://tjsj.zjgsu.edu.cn/2021/1222/c2634a105088/page.htm"><strong>Min Xiao</strong></a>.
 </p>
 
 My current research lies at the intersection of statistical theory and artificial intelligence. Recently, I have also been exploring other areas related to embodied intelligence, fields that I find truly fascinating. 
