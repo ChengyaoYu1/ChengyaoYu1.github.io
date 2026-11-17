@@ -67,7 +67,7 @@ My current research lies at the intersection of statistical theory and artificia
 <h1 class="section-heading section-heading--education"><span class="section-heading__icon"><i class="fa-solid fa-building-columns"></i></span>Education</h1>
 
 * **M.S. in Mathematics** (2025 – Present)
-  <br>Southern University of Science and Technology
+  <br>Southern University of Science and Technology (Rank: 1/20)
 
 * **B.S. in Applied Statistics** (2021 – 2025)
   <br>Zhejiang Gongshang University (Rank: 1/256)
