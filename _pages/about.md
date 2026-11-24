@@ -37,9 +37,9 @@ My current research lies at the intersection of statistical theory and artificia
 
 * **Sep 2026:** [Residual Calibration via Local Feature-Space Refinement](/publication/2026-05-22-calibration) was accepted at *NeurIPS 2026*.
   
-* **May 2026:** [Anytime Safe PAC Efficient Reasoning](/publication/2026-01-31-anytime-safe-pac) was accepted at *ICML 2026* and discussed at *ES-Reasoning @ ICLR 2026*.
+* **May 2026:** [Anytime Safe PAC Efficient Reasoning](/publication/2026-01-31-anytime-safe-pac) was accepted at *ICML 2026* and *ES-Reasoning @ ICLR 2026*.
   
-* **October 2025:** [Random Weighting Approximation of M-estimators with Increasing Dimensions of Parameter](/publication/2025-10-15-random-weighting) was accepted by *Statistica Sinica*.
+* **Oct 2025:** [Random Weighting Approximation of M-estimators with Increasing Dimensions of Parameter](/publication/2025-10-15-random-weighting) was accepted by *Statistica Sinica*.
 
 
 <h1 class="section-heading section-heading--publications"><span class="section-heading__icon"><i class="fa-solid fa-book-bookmark"></i></span>Selected Publications</h1>
