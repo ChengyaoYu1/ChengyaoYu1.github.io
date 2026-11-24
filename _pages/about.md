@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 <p class="home-intro">
-I am currently an M.S. student (September 2025–June 2027) in the Department of Statistics and Data Science at the <strong>Southern University of Science and Technology (SUSTech)</strong>, advised by Professor <a href="https://sai.cuhk.edu.cn/en/teacher/162"><strong>Bingyi Jing</strong></a>. In September 2027, I will begin my Ph.D. studies in the School of Artificial Intelligence at <strong>The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)</strong>, in collaboration with the <strong>Shenzhen Loop Area Institute (SLAI)</strong>, and I feel very fortunate to continue working with Professor <a href="https://sai.cuhk.edu.cn/en/teacher/162"><strong>Bingyi Jing</strong></a> as my Ph.D. advisor.
+I am currently an M.S. student (September 2025–June 2027) in the Department of Statistics and Data Science at the <strong>Southern University of Science and Technology (SUSTech)</strong>, advised by Professor <a href="https://sai.cuhk.edu.cn/en/teacher/162"><strong>Bingyi Jing</strong></a>.
 </p>
 
 <p>
